@@ -16,7 +16,7 @@
 
     <div class="text-center">
         <h1 class="text-5xl font-bold text-cyan-300" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-            <?php echo "Bienvenue sur GlobalShare !"; ?>
+            <?php echo "Bienvenue sur GlobalShare !!"; ?>
         </h1>
     </div>
 
